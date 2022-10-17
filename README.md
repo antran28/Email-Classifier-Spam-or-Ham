@@ -4,9 +4,7 @@
 
 ## ✨ Introduction:
 
-The following project focus on the issue of email spam detection and designing a machine learning program that can identify, through classification, to prevent spam entering the email box. The data was collected from Kaggle
-
-View source of data: [here](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
+The following project focus on the issue of email spam detection and designing a machine learning program that can identify, through classification, to prevent spam entering the email box. The data was collected from Kaggle, you can view source of data: [here](https://www.kaggle.com/datasets/team-ai/spam-text-message-classification)
 
 The project is structured as follows:
 
